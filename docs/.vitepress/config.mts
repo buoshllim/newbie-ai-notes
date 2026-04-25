@@ -30,7 +30,7 @@ export default defineConfig({
     },
     socialLinks: [],
     footer: {
-      message: 'AI 활용 기록 · by Song'
+      message: 'Crafted by Song'
     }
   }
 })
