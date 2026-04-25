@@ -289,7 +289,7 @@ Claude Code는 터미널만으로도 돌아가지만, IDE에서 터미널 열고
 **VS Code** — [code.visualstudio.com](https://code.visualstudio.com)
 
 - 무료, 가볍고 안정적
-- Claude Code 공식 확장 프로그램 있음. 설치하면 터미널 따로 안 열어도 VS Code 안에서 바로 실행 가능
+- Claude Code 공식 확장 프로그램 있음. 설치하면 터미널 열지 않고 VS Code 안에서 바로 실행 가능
 - 로그인 불필요. 회사 환경에서도 막힘 없이 씀
 
 **Antigravity** — Google이 만든 IDE. VS Code 기반
