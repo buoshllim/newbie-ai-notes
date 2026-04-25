@@ -15,7 +15,7 @@ export default defineConfig({
         {
           text: 'Claude',
           items: [
-            { text: 'Claude Code 처음 세팅', link: '/claude/cc-beginner' },
+            { text: 'Claude Code 설치 및 초기 세팅', link: '/claude/cc-beginner' },
           ]
         }
       ],

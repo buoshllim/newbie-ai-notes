@@ -7,7 +7,7 @@ hero:
   tagline: AI를 배우고 사용해 보면서 남기는 기록
   actions:
     - theme: brand
-      text: Claude Code 처음 세팅
+      text: Claude Code 설치 및 초기 세팅
       link: /claude/cc-beginner
 
 features:
