@@ -1,17 +1,17 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Claude Code 가이드',
-  description: 'Claude Code 한국어 사용 가이드',
+  title: '문과생의 AI 활용 메모장',
+  description: '문과생이 직접 써보고 기록한 AI 도구 활용 노트',
   lang: 'ko-KR',
   themeConfig: {
     nav: [
       { text: '홈', link: '/' },
-      { text: '초보자 가이드', link: '/beginner' },
+      { text: 'Claude Code', link: '/beginner' },
     ],
     sidebar: [
       {
-        text: '시작하기',
+        text: 'Claude Code',
         items: [
           { text: '초보자 셋팅 가이드', link: '/beginner' },
         ]
@@ -19,7 +19,7 @@ export default defineConfig({
     ],
     socialLinks: [],
     footer: {
-      message: 'Claude Code 한국어 커뮤니티'
+      message: '문과생의 AI 활용 메모장'
     }
   }
 })
