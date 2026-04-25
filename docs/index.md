@@ -2,19 +2,19 @@
 layout: home
 
 hero:
-  name: "문과생의"
-  text: "AI 활용 메모장"
-  tagline: 코딩 몰라도 됩니다. 직접 써보고 기록한 AI 도구 실전 노트.
+  name: "AI 활용 기록"
+  text: ""
+  tagline: 코딩 모르는 사람이 AI 쓰면서 남긴 메모들. 가르치려는 게 아니라 내가 가본 길을 적어둔 것.
   actions:
     - theme: brand
-      text: Claude Code 시작하기
-      link: /beginner
+      text: Claude Code 세팅 기록
+      link: /claude/beginner
 
 features:
-  - title: Claude Code
-    details: 터미널에서 Claude와 대화하며 코딩·자동화. 설치부터 비용 최적화까지.
-  - title: n8n 자동화
-    details: 노코드로 AI 워크플로우 구축. DART 공시, 텔레그램 알림, 데이터 파이프라인.
-  - title: AI 협업 도구
-    details: Copilot, Claude Co-working, 멀티 에이전트. 실제 써본 것만 기록.
+  - title: Claude
+    details: 터미널에서 쓰는 AI. 설치부터 세팅까지 내가 했던 것들.
+  - title: Microsoft Copilot
+    details: 정리 중.
+  - title: 자동화 도구
+    details: n8n, 텔레그램 봇 등. 정리 중.
 ---

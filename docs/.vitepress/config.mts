@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: '문과생의 AI 활용 메모장',
-  description: '문과생이 직접 써보고 기록한 AI 도구 활용 노트',
+  title: 'AI 활용 기록',
+  description: '코딩 모르는 사람이 AI 쓰면서 남긴 메모들',
   lang: 'ko-KR',
   themeConfig: {
     nav: [
@@ -15,7 +15,7 @@ export default defineConfig({
         {
           text: 'Claude',
           items: [
-            { text: 'Claude Code 초기 셋팅', link: '/claude/beginner' },
+            { text: 'Claude Code 처음 세팅', link: '/claude/beginner' },
           ]
         }
       ],
@@ -23,14 +23,14 @@ export default defineConfig({
         {
           text: 'Microsoft Copilot',
           items: [
-            { text: '준비 중', link: '/copilot/' },
+            { text: '정리 중', link: '/copilot/' },
           ]
         }
       ],
     },
     socialLinks: [],
     footer: {
-      message: '문과생의 AI 활용 메모장'
+      message: 'AI 활용 기록'
     }
   }
 })
