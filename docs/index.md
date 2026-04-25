@@ -13,8 +13,6 @@ hero:
 features:
   - title: Claude
     details: 터미널에서 쓰는 AI. 설치부터 세팅까지 내가 했던 것들.
-  - title: Microsoft Copilot
-    details: 정리 중.
-  - title: 자동화 도구
-    details: n8n, 텔레그램 봇 등. 정리 중.
+  - title: 기타 도구
+    details: n8n, Copilot 등. 쓰다 보면 쌓임.
 ---

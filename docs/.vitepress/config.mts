@@ -8,7 +8,7 @@ export default defineConfig({
     nav: [
       { text: '홈', link: '/' },
       { text: 'Claude', link: '/claude/beginner' },
-      { text: 'Copilot', link: '/copilot/' },
+      { text: '기타', link: '/etc/' },
     ],
     sidebar: {
       '/claude/': [
@@ -19,11 +19,11 @@ export default defineConfig({
           ]
         }
       ],
-      '/copilot/': [
+      '/etc/': [
         {
-          text: 'Microsoft Copilot',
+          text: '기타 도구',
           items: [
-            { text: '정리 중', link: '/copilot/' },
+            { text: '정리 중', link: '/etc/' },
           ]
         }
       ],
