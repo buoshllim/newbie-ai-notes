@@ -80,7 +80,7 @@ C:\Users\내계정이름\.local\bin
 ## Cladue Code 실행
 
 터미널(macOS/Linux) 또는 PowerShell(Windows)을 열고 아래 명령어를 입력.
-> 윈도우에서는 `cd\` 입력 후에 아래 명령어를 입력
+> 윈도우에서는 `cd\` 입력 후에 아래 명령어를 입력하는 것을 추천
 
 ```bash
 claude
@@ -195,13 +195,14 @@ Sonnet 4.6 | context:42% | 5h:18% 7d:34%
 
 ## Claude Code 다시 켜기
 
-설치할 때 했던 것과 같음. 터미널(macOS/Linux) 또는 PowerShell(Windows)을 열고:
+설치할 때 했던 것과 같음. 터미널(macOS) 또는 PowerShell(Windows)을 열고 아래 명령어를 입력.
+> 윈도우에서는 `cd\` 입력 후에 아래 명령어를 입력하는 것을 추천
 
 ```bash
 claude
 ```
 
-입력하면 바로 시작됨. 로그인은 처음 한 번만 하면 이후엔 자동 연결.
+로그인은 처음 한 번만 하면 이후엔 자동 연결.
 
 ---
 
