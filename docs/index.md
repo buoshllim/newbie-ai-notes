@@ -3,7 +3,6 @@ layout: home
 
 hero:
   name: "AI 활용 기록"
-  text: "by Song"
   tagline: AI로 이것저것 해보고 남기는 기록
   actions:
     - theme: brand
