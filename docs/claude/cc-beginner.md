@@ -253,7 +253,7 @@ Claude Code세션 안에서 씀.
 
 Claude Code는 기본적으로 파일 수정이나 명령어 실행 시 매번 허락을 물어봄. 익숙해지면 이 확인 과정이 번거롭게 느껴질 수 있음.
 
-아래처럼 실행하면 허락 없이 알아서 진행함:
+처음에 Claude 실행할 때 아래처럼 입력하고 실행하면 허락 없이 알아서 진행함:
 
 ```bash
 claude --dangerously-skip-permissions
