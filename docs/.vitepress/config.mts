@@ -7,16 +7,27 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '홈', link: '/' },
-      { text: 'Claude Code', link: '/beginner' },
+      { text: 'Claude', link: '/claude/beginner' },
+      { text: 'Copilot', link: '/copilot/' },
     ],
-    sidebar: [
-      {
-        text: 'Claude Code',
-        items: [
-          { text: '초보자 셋팅 가이드', link: '/beginner' },
-        ]
-      }
-    ],
+    sidebar: {
+      '/claude/': [
+        {
+          text: 'Claude',
+          items: [
+            { text: 'Claude Code 초기 셋팅', link: '/claude/beginner' },
+          ]
+        }
+      ],
+      '/copilot/': [
+        {
+          text: 'Microsoft Copilot',
+          items: [
+            { text: '준비 중', link: '/copilot/' },
+          ]
+        }
+      ],
+    },
     socialLinks: [],
     footer: {
       message: '문과생의 AI 활용 메모장'
