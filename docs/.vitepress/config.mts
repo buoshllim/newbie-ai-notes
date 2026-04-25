@@ -30,7 +30,7 @@ export default defineConfig({
     },
     socialLinks: [],
     footer: {
-      message: 'Crafted by Song'
+      message: '© 2026 Song · Crafted & curated'
     }
   }
 })
