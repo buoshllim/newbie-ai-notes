@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'AI 활용 기록',
-  description: '코딩 모르는 사람이 AI 쓰면서 남긴 메모들',
+  description: 'AI로 이것저것 해보고 남기는 기록',
   lang: 'ko-KR',
   themeConfig: {
     nav: [
