@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "AI 활용 기록"
   text: ""
-  tagline: AI를 사용해 보고 남기는 기록
+  tagline: AI로 이것저것 해보고 남기는 기록
   actions:
     - theme: brand
       text: Claude Code 설치 및 초기 세팅
