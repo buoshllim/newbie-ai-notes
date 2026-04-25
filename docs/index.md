@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Claude Code 처음 세팅
-      link: /claude/beginner
+      link: /claude/cc-beginner
 
 features:
   - title: Claude

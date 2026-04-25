@@ -7,7 +7,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '홈', link: '/' },
-      { text: 'Claude', link: '/claude/beginner' },
+      { text: 'Claude', link: '/claude/cc-beginner' },
       { text: '기타', link: '/etc/' },
     ],
     sidebar: {
@@ -15,7 +15,7 @@ export default defineConfig({
         {
           text: 'Claude',
           items: [
-            { text: 'Claude Code 처음 세팅', link: '/claude/beginner' },
+            { text: 'Claude Code 처음 세팅', link: '/claude/cc-beginner' },
           ]
         }
       ],
